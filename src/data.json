@@ -1,0 +1,81 @@
+{
+    "navigation":[
+      {
+        "content":"About Me",
+        "to":"about"
+      },
+      {
+        "content":"SKILLS",
+        "to":"skills"
+      }
+    ],
+    "title": "Hello, my name is Maziyar khalili",
+    "subtitle": "Frontend Web Developer | UI/UX Designer",
+   
+    "links": {
+      "github": "https://github.com/Mazi75",
+      "Instagram": "https://www.instagram.com/mazi_20_/"
+    },
+    "section": [
+      {
+        "title": "About",
+        "items": [
+          {
+            "type": "p",
+            "content": "I’m a creative person who love to design and create new things and cooperate with other members of team inorder to achive best result."
+          }
+        ]
+      },
+      {
+        "title": "Skills",
+        "items": [
+          {
+            "type": "card",
+            "content": {
+              "image": "images/react.png",
+              "title": "React"
+            }
+          },
+          {
+            "type": "card",
+            "content": {
+              "image": "images/js.png",
+              "title": "javascript"
+            }
+          },
+          {
+            "type": "card",
+            "content": {
+              "image": "images/python.png",
+              "title": "python"
+            }
+          },
+          {
+            "type": "card",
+            "content": {
+              "image": "images/html5.png",
+              "title": "HTML5"
+            }
+          },
+          {
+            "type": "card",
+            "content": {
+              "image": "images/css3.png",
+              "title": "CSS3"
+            }
+          },
+          {
+            "type": "card",
+            "content": {
+              "image": "images/Bootstrap4.png",
+              "title": "BootStrap4"
+            }
+          }
+        ]
+      }
+    ],
+    "icons":{
+        "switch":"images/switch.png",
+        "down":"images/down.png"
+    }
+  }
